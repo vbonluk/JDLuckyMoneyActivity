@@ -10,7 +10,7 @@
 // @updateURL         https://github.com/vbonluk/JDLuckyMoneyActivity/jd_lucky_money_activity.js
 
 // @author            vbonluk
-// @version           0.0.7
+// @version           0.0.8
 // @license           MIT
 
 // @compatible        chrome Chrome_46.0.2490.86 + TamperMonkey + 脚本_1.3 测试通过
